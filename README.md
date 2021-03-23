@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acbertini
-- 🌱 I’m currently learning to programming in Salesforce Platform (Apex) and I'm algo into Python and Javascript
+- 🌱 I’m currently learning to programming in Salesforce Platform (Apex) and I'm also into Python and Javascript
 - 📫 How to reach me:
     LinkedIn: https://www.linkedin.com/in/ana-carolina-bertini/
     E-mail: acbertini@gmail.com
