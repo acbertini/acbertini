@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acbertini
-- 🌱 I'm currently learning to program in Salesforce Platform and I'm also into Java, Python, and Javascript. Sometimes I write scripts for task automation!
+- 🌱 I'm a Salesforce Engineer interested in getting a better understanding of the Salesforce ecosystem. Sometimes I write scripts for task automation!
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/ana-carolina-bertini/
     - Trailblazer: https://trailblazer.me/id/ana-carolina-bertini
